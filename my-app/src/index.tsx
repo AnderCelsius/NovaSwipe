@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <App link="myReactApp"/>
-    <App link="file"/>
+    <App link="new app"/>
     <App link="welcome to react"/>
   </React.StrictMode>
 );
